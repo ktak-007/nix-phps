@@ -22,6 +22,7 @@ The following versions are currently available:
 - `php72`
 - `php73`
 - `php74`
+- `php7427`
 - `php80`
 - `php81`
 - `php82`
