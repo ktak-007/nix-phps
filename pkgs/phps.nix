@@ -113,6 +113,7 @@ in
   php80 = prev.php80.override {
     inherit packageOverrides;
   };
+  php8028 = import ./php/8.0.28.nix { inherit prev mkPhp; };
 
   php81 = prev.php81.override {
     inherit packageOverrides;

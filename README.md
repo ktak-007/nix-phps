@@ -24,6 +24,7 @@ The following versions are currently available:
 - `php74`
 - `php7427`
 - `php80`
+- `php8028`
 - `php81`
 - `php82`
 
